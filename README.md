@@ -5,7 +5,6 @@
   <li>📫 How to reach me:
     <ul>
       <li>Email: Ludvige@hotmail.com</li>
-      <li>Discord: Grusballe#9928</li>
     </ul>
   </li>
 </ul>
